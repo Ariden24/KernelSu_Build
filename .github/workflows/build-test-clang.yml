@@ -1,4 +1,4 @@
-name: Build Kernel Aosp Custom
+name: Build Kernel Test
 on:
   watch:
     types: [started]
